@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <base href="<!$MG_basehref>"/>
+    <script src="js/magic.js"></script>
+</head>
+<body>
+    <p>Interacting with an Embedded Browser in Magic XPA</p>
+
+    <button value="test"
+            onclick="javascript:raiseMagicEvent('sendMsg')"
+			>Send Message to Magic</button>
+
+    <hr/>
+    <p>Message Received from Magic:</p>
+    <div id="messageFromMagic"></div>
+
+</body>
+</html>

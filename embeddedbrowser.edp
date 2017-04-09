@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="embeddedbrowser"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{66EAA257-B024-43C1-8857-D304B71EC5DC}"/>
+    <Version min="13020"/>
+    <SourceVersion val="13020.00"/>
+  </_Project>
+
+</Application>
